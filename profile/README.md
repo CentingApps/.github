@@ -18,24 +18,14 @@ CentingApps is an application project inspired by the fact that Indonesia have a
 **Mobile Application**
 
 The mobile application is made starting by the UI/UX using platform figma creating the Lo-Fi and Hi-Fi model, which then implemented using native Kotlin Android by utilizing supporting libraries such as Retrofit, Tensorflow, etc. 
-![CentingApps Flowchart](https://github.com/CentingApps/.github/blob/main/%5BC241-PS220%5D%20-%20Flowchart%20Capst%20Stunting.drawio.pdf)
+![CentingApps Flowchart](https://github.com/CentingApps/.github/blob/main/%5BC241-PS220%5D%20-%20Flowchart%20Capst%20Stunting.drawio_page-0001.jpg)
 
 **Cloud Computing**
 
 **Machine Learning**
-
+To get started with the mobile development, you can start by installing Android Studio. Then cloning this
 
 
 ## Getting Started
 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
