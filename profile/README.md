@@ -22,10 +22,25 @@ The mobile application is made starting by the UI/UX using platform figma creati
 
 **Cloud Computing**
 
-**Machine Learning**
-To get started with the mobile development, you can start by installing Android Studio. Then cloning this
+<!--dijelasin pake apa apanya terus tambahin cloud architecture sama database structurenya sama link reponya apa aja boleh di masukin disini-->
 
+**Machine Learning**
+
+<!--dijelasin model machine learning stunting kita kayak gimana apa aja hasilnya dll.-->
 
 ## Getting Started
 
+**Mobile Application**
 
+To get started with the mobile development, you can start by installing Android Studio. Then cloning this [repository](https://github.com/Centing/CentingApps) to your local computer.
+
+**Cloud Computing**
+
+<!--tutorial apa aja step yang perlu dilakuin sama masukin link bila diperlukan-->
+
+**Machine Learning**
+
+<!--tutorial apa aja step yang perlu dilakuin sama masukin link bila diperlukan-->
+
+## Contributing
+We welcome contributions to enhance the stunting prediction models and stunting recommendation system. If you have any ideas, bug fixes, or improvements, feel free to email us as been put in the bio.
