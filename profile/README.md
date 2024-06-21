@@ -27,6 +27,23 @@ The mobile application is made starting by the UI/UX using platform figma creati
 **Machine Learning**
 
 <!--dijelasin model machine learning stunting kita kayak gimana apa aja hasilnya dll.-->
+This repository contains a machine learning-based solution for predicting the nutritional status of children (stunting) and providing recommendations based on the predictions. The model is trained on a dataset containing information about children's age, gender, height, and nutritional status.
+
+**Stunting Detection**
+
+The stunting detection in this system uses an artificial neural network model to classify a child's nutritional status based on age, gender, and height. The model is trained using a dataset that includes these variables and is then tested with a separate dataset to evaluate the detection accuracy. This system identifies the child's nutritional status into categories of 'normal', 'stunted', or 'severely stunted'. These detections help determine whether the child is in a healthy nutritional state or requires further intervention to improve their nutritional status. If a child is classified as 'stunted' or 'severely stunted', the system also provides nutritional and health recommendations to help the child achieve the ideal height according to their age and gender.
+
+**Personalized Nutritional and Health Recommendations**
+
+The recommendation feature in this system is designed to provide actionable guidance for improving or maintaining a child's nutritional status based on the detection results. If the system detects that a child is 'stunted' or 'severely stunted', it offers specific recommendations to help the child grow to an ideal height for their age and gender. These recommendations include:
+
+* Nutritional Advice: Suggestions for providing exclusive breastfeeding for the first 6 months, introducing nutrient-rich complementary foods, ensuring adequate intake of vitamins and minerals, and maintaining regular meal schedules.
+* Health and Hygiene: Emphasis on clean drinking water, maintaining personal and environmental hygiene to prevent infections, and ensuring the child receives all necessary immunizations.
+* Regular Health Monitoring: Encouraging routine health check-ups to monitor the child's growth and development.
+* Developmental Stimulation: Recommendations for providing physical and cognitive stimulation through educational games and activities.
+* Emotional Support: Advising parents to show love and attention to support the child's emotional development.
+  
+If the child is detected as 'normal', the system congratulates the parents and provides tips to maintain the child's good nutritional status, which includes continued breastfeeding, balanced nutrition, regular health check-ups, and developmental activities.
 
 ## Getting Started
 
